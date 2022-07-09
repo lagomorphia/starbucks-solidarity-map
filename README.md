@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/53026628/178120026-991be686-6979-43b5-a4a2-2ca75b1606b4.png)
 
-Map to visualize proximity of existing CWA union members (AT&T Mobility) to unionizing Starbucks locations. Demo map is available at https://lodgepolepines.shinyapps.io/starbucks-solidarity-map/
+Map to visualize proximity of CWA union members (AT&T Mobility) to unionizing Starbucks locations for the purpose of solidarity mobilizing. Demo map is available at https://lodgepolepines.shinyapps.io/starbucks-solidarity-map/
 
 Uses R packages `sf` to calculate proximity, `shiny` and `leaflet` for mapping, and `rsconnect` to deploy to **shinyapps**. For purposes of demo all CWA data is fake.
 
