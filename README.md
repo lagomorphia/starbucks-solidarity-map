@@ -11,3 +11,7 @@ More information available here: [link](https://docs.google.com/presentation/d/1
 ## To use:
 
 Clone this repository, install the necessary R packages such as `shiny`, `leaflet`, and `sf`, replace the repo csv location data with your own data, and run app.R. To deploy to **shinyapps** follow [these instructions](https://shiny.rstudio.com/articles/shinyapps.html). For more information on geocoding data with `ggmap` and the Google Maps Geocoding API, [see here](https://www.shanelynn.ie/massive-geocoding-with-r-and-google-maps/).
+
+![image](https://user-images.githubusercontent.com/53026628/178164300-6ff64549-1b09-48da-b4bb-7779113286a3.png)
+![image](https://user-images.githubusercontent.com/53026628/178164308-1a69f613-8331-4e03-a6c7-be79648ef2c5.png)
+![image](https://user-images.githubusercontent.com/53026628/178164313-05719ec5-e7ce-4b47-9869-ed4f0d061cea.png)
