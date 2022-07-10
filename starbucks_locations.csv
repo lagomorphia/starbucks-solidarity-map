@@ -1,105 +1,193 @@
-Title,Address,City,State,Zip,Status,VoteResults,Store,Announcement
-7th Street & Bell,17045 N 7th St,Phoenix,AZ,,Filed,,14560,https://twitter.com/SBWorkersUnited/status/1496616239451492352
-Crismon & Southern,1222 S Crismon Rd,Mesa,AZ,,Announced but hasn't filed,,55374,https://twitter.com/SBWorkersUnited/status/1483574260455120901
-Power & Baseline Rd,6807 E Baseline Rd #102,Mesa,AZ,,"Voting complete, awaiting count",,,
-Scottsdale & Mayo,7000 E Mayo Blvd,Phoenix,AZ,,Announced but hasn't filed,,,
-Mason & Lassen,9857 Mason Avenue,Chatsworth,CA,91311,Filed,,,
-Mission & Dufour,1901 Mission Street,Santa Cruz,CA,,Filed,,,
-Ocean & Water,745 Ocean Street,Santa Cruz,CA,,Filed,,,
-West Roseville,4000 Foothills Boulevard,Roseville,CA,,Filed,,,
-E Colfax Ave,2975 E Colfax Ave,Denver,CO,,Announced but hasn't filed,,,
-Rock Creek Parkway,2800 Rock Creek Cir,Superior,CO,80027,Filed,,,
-1703 W Tennessee,1703 W Tennessee St,Tallahassee,FL,,Filed,,,
-8th Ave & 49th St,583 West 49th Street,Hialeah,FL,,Filed,,,
-John Knox & N Monroe St,2264-1 North Monroe Street,Tallahassee,FL,,Filed,,,
-Magnolia & Governors Square Blvd,222 South Magnolia Drive,Tallahassee,FL,,Filed,,,
-San Jose Blvd & Ricky Drive,11441 San Jose Blvd,Jacksonville,FL,,Announced but hasn't filed,,,
-I-75 & Howell Mill,1801 Howell Mill Rd,Atlanta,GA,,Filed,,,
-Peachtree Dunwoody & Hammond Drive,6001 Peachtree Dunwoody Road,Atlanta,GA,,Announced but hasn't filed,,,
-Mililani Shopping Center,95-221 Kipapa Drive,Mililani,HI,,Announced but hasn't filed,,,
-55th & Woodlawn-Hyde Park,117 E 55th St,Chicago,IL,,Filed,,,
-Downtown La Grange,38 South La Grange Road,La Grange,IL,,Filed,,,
-Logan & California,2543 N California Ave,Chicago,IL,,Filed,,,
-Northwest Hwy & Feinberg Drive,620 Northwest Highway,Cary,IL,,???,,,
-Randolph & Wabash,155 North Wabash Avenue,Chicago,IL,,Filed,,,
-University & Main,1200 W Main St,Peoria,IL,,Announced but hasn't filed,,,
-Overland Park - 75th & I35,10201 West 75th Street,Overland Park,KS,,Filed,,,
-125 Summer St.,125 Summer Street,Boston,MA,,Filed,,,
-Beacon St,1948 Beacon St,"Brighton, Boston",MA,,Filed,,,
-Brookline Ave,364 Brookline Ave,Boston,MA,,Filed,,,
-Commonwealth Ave,1304 Commonwealth Avenue,Boston,MA,,Filed,,,
-Harvard St,277 Harvard Street,Boston,MA,,Filed,,,
-Kendall Square,120 Broadway,Cambridge,MA,,Filed,,,
-Newtonville,16-18 Austin Street,"Newtonville, Newton",MA,,Filed,,,
-Watertown - Mt. Auburn,75 Mt Auburn St,Watertown,MA,,Announced but hasn't filed,,,
-Western Ave / Allston Continuum,217 Western Ave,Boston,MA,,Filed,,,
-1700 W Nursery Rd.,1700 W Nursery Rd,Linthicum Heights,MD,,Filed,,,
-N Charles St,1209 N Charles St,Baltimore,MD,,Announced but hasn't filed,,,
-Glencoe Crossing,4585 Washtenaw Ave,Ann Arbor,MI,,Filed,,,
-Jackson & Zeeb,120 S Zeeb Rd,Ann Arbor,MI,,Filed,,,
-Lake Lansing & Kerry St,2624 Lake Lansing Rd,Lansing,MI,,Filed,,,
-Main & Liberty,300 South Main Street,Ann Arbor,MI,,Filed,,,
-S. Saginaw Street,11353 S Saginaw St,Grand Blanc,MI,,Filed,,,
-South University & Church,1214 S University Ave,Ann Arbor,MI,,Filed,,,
-State & Liberty,222 S State St,Ann Arbor,MI,,Filed,,,
-The Mall At Partridge Creek,17410 Hall Road,Clinton Township,MI,,Filed,,,
-300 Snelling,300 Snelling Avenue South,St Paul,MN,55105,Announced but hasn't filed,,,
-47th and Cedar,4712 Cedar Ave,Minneapolis,MN,,Announced but hasn't filed,,,
-Country Club Plaza,302 Nichols Road,Kansas City,MO,,Filed,,,
-Wake Forest Rd and Six Forks Rd,2901 Sherman Oak Place,Raleigh,NC,,Filed,,,
-Hopewell,800 Denow Road,Pennington,NJ,,Filed,,,
-Astor Place / Lafayette & 8th Street,13-25 Astor Place,New York,NY,,Annouced but hasn't filed,,,
-"Brighton, Monroe & Clover",2750 Monroe Avenue,Rochester,NY,,Filed,,,
-Camp Road Hamburg,5120 Camp Road,Hamburg,NY,,Voted Against Union,12-Aug,,
-Ceaser's Bay Shopping Center,8973 Bay Parkway,Brooklyn,NY,,Annouced but hasn't filed,,,
-College Ave,402 College Avenue,Ithaca,NY,,Filed,,,
-Commons,130 East Seneca Street,Ithaca,NY,,Filed,,,
-Delaware & Chippewa,235 Delaware Avenue,Buffalo,NY,,Filed,,,
-Elmwood,933 Elmwood Avenue,Buffalo,NY,,Unionized,19-8,,
-Genessee St,4255 Genesee St,Cheektowaga,NY,,Unionized,15-9,,
-Massapequa Village Square,4301 Merrick Road,Massapequa,NY,,Announced but hasn't filed,,,
-Meadow St,722 South Meadow Street,Ithaca,NY,,Filed,,,
-Mount Hope Avenue,1394 Mount Hope Avenue,Rochester,NY,,Filed,,,
-New York Reserve Roastery,61 9th Ave,New York,NY,,Annouced but hasn't filed,,,
-Sheridan & Bailey,3186 Sheridan Drive,Amherst,NY,,Filed,,,
-The Gardens,6 Great Neck Road,Great Neck Plaza,NY,,Announced but hasn't filed,,,
-Transit Commons / Depew,4770 Transit Road,Depew,NY,,Filed,,,
-Walden & Anderson,1775 Walden Avenue,Cheektowaga,NY,,Filed,,,
-6th St,1374 W 6th St,Cleveland,OH,,Filed,,,
-"Mayfield & Lee, Cleveland Hts.",3093 Mayfield Road,Cleveland Heights,OH,,Filed,,,
-"W.117th, Clifton Blvd",11623 Clifton Boulevard,Cleveland,OH,,Filed,,,
-63rd & Grand,1123 Northwest 63rd Street,Oklahoma City,OK,,Announced but hasn't filed,,,
-29th & Willamette,2830 Willamette St,Eugene,OR,,Filed,,,
-7th & Washington,495 West 7th Avenue,Eugene,OR,,Filed,,,
-Delta & Green Acres,3003 N Delta Hwy,Eugene,OR,,Filed,,,
-Franklin & Villard,1895 Franklin Boulevard East,Eugene,OR,,Filed,,,
-Garden Home,7315 SW Garden Home Rd,Portland,OR,,Filed,,,
-Jenkins at Cedar Hills Crossing,2933 SW Cedar Hills Blvd,Beaverton,OR,,Filed,,,
-Oakway Mall,65 Oakway Center,Eugene,OR,,Filed,,,
-U of O Erb Memorial Student Union,1395 University St,Eugene,OR,,Filed,,,
-Walker & Schendel,16175 Southwest Walker Road,Beaverton,OR,,Filed,,,
-20th & Market,1900 Market Street,Philadelphia,PA,19103,Filed,,,
-9th & South,600 9th St,Philadelphia,PA,,Filed,,,
-"Bloomfield, Liberty Ave",4765 Liberty Avenue,Pittsburgh,PA,,Announced but hasn't filed,,,
-Callowhill,1945 Callowhill St,Philadelphia,PA,,Filed,,,
-Walnut & 34th,3401 Walnut St,Philadelphia,PA,19104,Filed,,,
-I-85 & Pelham Pkwy,3905 Pelham Road,Greenville,SC,,Filed,,,
-I75 at Merchant Dr.,116 Merchant Dr.,Knoxville,TN,,Filed,,,
-Poplar & Highland,3388 Poplar Avenue,Memphis,TN,,Filed,,,
-410 & Vance Jackson,2639 Northwest Loop 410,San Antonio,TX,,Filed,,,
-2003 S. Main Street,2003 South Main Street,Farmville,VA,,Filed,,,
-Arthur Ashe Blvd & Myers,1017 North Boulevard,Richmond,VA,,Announced but hasn't filed,,,
-Broad and Willow Lawn,1601 Willow Lawn Dr,Richmond,VA,,Filed,,,
-Carytown,3555 W Cary St,Richmond,VA,,Announced but hasn't filed,,,
-Forest Hill Ave,6980 Forest Hill Ave,Richmond,VA,,Filed,,,https://twitter.com/SBWorkersUnited/status/1483574260455120901
-Huntsman Square,7475 Huntsman Blvd,Springfield,VA,,Filed,,,
-Midlothian & Carmia Way,Starbucks Midlothian Turnpike,North Chesterfield,VA,,Filed,,7577,https://twitter.com/SBWorkersUnited/status/1483574260455120901
-The Bridges Roanoke,8 Old Whitmore Ave,Roanoke,VA,,Announced but hasn't filed,,,
-Westchester Commons,15605 WC Commons Way,Midlothian,VA,,Announced but hasn't filed,,,
-1200 Westlake Ave,1200 Westlake Ave,Seattle,WA,,Filed,,,
-37th & Broadway,3625 North Broadway Avenue,Everett,WA,,Filed,,,
-5th & Pike,425 Pike St.,Seattle,WA,98101,Filed,,,
-Broadway & Denny,101 Broadway East,Seattle,WA,,Filed,,,
-Starbucks Reserve Roastery,1124 Pike St,Seattle,WA,,Announced but hasn't filed,,,
-McDill & Crossroads,120 Crossroads Drive,Plover,WI,,Filed,,,
-Howell & Puetz,8880 S Howell Ave,Oak Creek,WI,,Announced but hasn't filed,,,
+Date Filed,City,State,Address,Status,Case Name,Labor Union,Tally Date,Ballot Type,Votes For Union,Votes Against,Num Eligible Voters,Case
+30-Mar-22,Madison,WI,"1 E. Main Street, Madison, Wisconsin",Open,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/ SEIU",30-Jun-22,Initial,15,1,22,18-RC-293286
+20-Dec-21,Seattle,WA,"101 Broadway E, Seattle, WA",Unionized,Starbucks Corporation,Workers United,22-Mar-22,Initial,9,0,13,19-RC-287954
+2-Feb-22,Overland Park,KS,"10201 W. 75th St., Overland Park, KS",Open,Starbucks Corporation,Chicago & Midwest Regional Joint Board - Workers United/SEIU,8-Apr-22,Initial,6,1,20,14-RC-289926
+1-Mar-22,Avondale,AZ,"10585 West Indian School Road, Avondale, Arizona",Unionized,Starbucks Corporation,WORKERS UNITED,5-May-22,Initial,17,3,30,28-RC-291566
+7-Apr-22,Chicago,IL,"1070 W Bryn Mawr Ave., Chicago, Illinois",Unionized,Starbucks Corporation,Chicago & Midwest Regional Joint Board,25-May-22,Initial,10,1,14,13-RC-293654
+25-Feb-22,Hamilton,NJ,"1081 Whitehorse Road, Hamilton Township, New Jersey",Unionized,Starbucks Corporation,Workers United,2-May-22,Initial,8,3,28,22-RC-291263
+28-Mar-22,Worcester,MA,"11 East Central Street, Worcester, MA",Unionized,Starbucks Corporation,Workers United a/w SEIU,3-Jun-22,Initial,14,0,39,01-RC-292949
+19-Apr-22,Portland,OR,"1102 NW Lovejoy St. Portland, OR",Unionized,Starbucks Corporation,Workers United affiliated with Service Employees International Union,23-Jun-22,Initial,8,0,14,19-RC-294288
+1-Mar-22,Eugene,OR,"1115 Valley River Drive, Eugene, Oregon",Unionized,Starbucks Corporation,Workers United,5-May-22,Initial,10,3,27,19-RC-291441
+15-Apr-22,Durham,NC,"1119 Slater Road, Durham, NC",Voted Failed,Starbucks Corporation,"Workers United, Southern Regional Joint Board",26-May-22,Initial,9,19,32,10-RC-294066
+14-Feb-22,Seattle,WA,"1124 Pike Street, Seattle, Washington",Unionized,Siren Retail Corp. d/b/a Starbucks,Workers United,21-Apr-22,Initial,38,27,104,19-RC-290608
+13-Apr-22,Philadelphia,PA,"1128 Walnut Street, Philadelphia, Pennsylvania",Unionized,Starbucks Corporation,Workers United,21-Jun-22,Initial,6,1,13,04-RC-293959
+2-May-22,Glen Allen,VA,"11332 Nuckols Road, Glen Allen, Virginia",Voted Failed,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",10-Jun-22,Initial,7,20,31,05-RC-295021
+31-Jan-22,Grand Blanc,MI,"11355 S. Saginaw Street, Grand Blanc, Michigan",Voted Failed,Starbucks Corporation,Workers United,9-Jun-22,Initial,8,13,26,07-RC-289860
+9-Mar-22,East Lansing,MI,"1141 East Grand River Avenue, East Lansing, Michigan",Unionized,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",9-Jun-22,Initial,19,0,29,07-RC-292006
+14-Mar-22,Murfreesboro,TN,"1144 Fortress Blvd., Murfreesboro, Tennessee",Voted Failed,Starbucks Corporation,WORKERS UNITED,27-May-22,Initial,12,16,36,10-RC-292155
+16-Feb-22,Jacksonville,FL,"11441 San Jose Blvd., Jacksonville, Florida",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",10-May-22,Initial,10,7,25,12-RC-290746
+27-Dec-21,Knoxville,TN,"115 Merchant Drive, Knoxville, Tennessee",Unionized,Starbucks Corporation,WORKERS UNITED,5-Apr-22,Initial,8,7,27,10-RC-288098
+14-Jan-22,Chicago,IL,"1174 E 55th St, Chicago, Illinois",Unionized,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",7-Jun-22,Initial,5,3,13,13-RC-288994
+17-Feb-22,Cambridge,MA,"120 Broadway, Cambridge, MA",Open,Starbucks Corporation,Workers United,30-Jun-22,Initial,6,0,26,01-RC-290851
+22-Feb-22,Plover,WI,"120 Crossroads Drive, Plover, Wisconsin",Open,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",4-May-22,Initial,7,5,34,18-RC-291082
+8-Feb-22,Ann Arbor,MI,"120 S. Zeeb Road, Ann Arbor, Michigan",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,10,2,29,07-RC-290303
+14-Feb-22,Peoria,IL,"1200 West Main Street Peoria, IL",Unionized,Starbucks Corporation,"Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",26-Apr-22,Initial,9,2,18,25-RC-290625
+25-Jan-22,Seattle,WA,"1200 Westlake Avenue North, Seattle, Washington",Open,Starbucks Corporation,Workers United,6-Jun-22,Initial,7,7,22,19-RC-289455
+20-Jan-22,Baltimore,MD,"1209 North Charles Street, Baltimore, Maryland",Unionized,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",25-Apr-22,Initial,14,0,22,05-RC-289214
+30-Mar-22,Latham,NY,"1210 Troy Schenectady Road in Latham, New York",Unionized,Starbucks Corporation,Workers United,17-May-22,Initial,8,6,19,03-RC-293138
+8-Feb-22,Ann Arbor,MI,"1214 S. University Avenue, Ann Arbor, Michigan",Voted Failed,Starbucks Corporation,Workers United,7-Jun-22,Initial,10,16,33,07-RC-290313
+4-Apr-22,St. Louis,MO,"1216 Hampton Ave., St. Louis, MO",Open,Starbucks Corporation,"Chicago & Midwest Regional Joint Board, Workers United/SEIU",17-Jun-22,Initial,17,0,25,14-RC-293479
+18-Jan-22,Mesa,AZ,"1222 S. Crismon Road, Mesa, Arizona",Unionized,Starbucks Corporation,WORKERS UNITED,25-Mar-22,Initial,11,3,28,28-RC-289033
+30-Mar-22,Portland,OR,"12235 N. Center Ave., Portland, Oregon",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,10,5,25,19-RC-293238
+1-Apr-22,Bridgeton,MO,"12419 St. Charles Rock Road, Bridgeton, MO",Open,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/ SEIU",13-Jun-22,Initial,9,14,41,14-RC-293357
+17-Feb-22,Boston,MA,"125 Summer St., Boston, MA",Open,Starbucks Corporation,Workers United,30-Jun-22,Initial,4,3,13,01-RC-290850
+15-Apr-22,Nanuet,NY,"126 Rockland Plaza, Nanuet, New York",Unionized,Starbucks Corporation,Workers United,3-Jun-22,Initial,14,5,21,02-RC-294088
+16-Mar-22,Louisville,KY,"12911 Factory Lane, Louisville, Kentucky",Unionized,STARBUCKS CORPORATION,"Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",26-May-22,Initial,19,5,43,09-RC-292370
+1-Feb-22,Ithaca,NY,"130 East Seneca Street, Ithaca, New York",Unionized,Starbucks Corporation,Workers United,8-Apr-22,Initial,15,1,25,03-RC-289805
+13-Dec-21,Allston,MA,"1304 Commonwealth Ave., Allston, MA",Unionized,Starbucks Corporation,WORKERS UNITED,11-Apr-22,Initial,11,0,29,01-RC-287618
+24-Mar-22,Anaheim,CA,"131 East Katella Avenue, Unit 10, Anaheim, California",Unionized,Starbucks Corporation,WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD,9-Jun-22,Initial,10,1,28,21-RC-292957
+17-Mar-22,Oklahoma City,OK,"132 NW 23rd St., Oklahoma",Open,Starbucks Corporation,Chicago & Midwest Regional Joint Board - Workers United/SEIU,31-May-22,Initial,15,2,33,14-RC-292446
+10-Feb-22,New York,NY,"13-25 Astor Place, New York",Unionized,Starbucks Corporation,"New York New Jersey Regional Joint Board, Workers United",29-Apr-22,Initial,11,2,30,02-RC-290378
+10-Jan-22,Cleveland,OH,"1374 West 6th Street, Cleveland Ohio",Unionized,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",24-May-22,Initial,10,0,22,08-RC-288697
+15-Mar-22,Los Angeles,CA,"138 South Central Avenue, Los Angeles, California",Unionized,Starbucks Corporation,WORKERS UNITED,23-May-22,Initial,5,0,19,21-RC-292310
+1-Feb-22,Rochester,NY,"1394 Mount Hope Avenue, Rochester, New York",Open,Starbucks Corporation,Workers United,7-Apr-22,Initial,13,11,41,03-RC-289801
+4-Feb-22,Eugene,OR,"1395 University Street, Eugene, Oregon",Unionized,Starbucks Corporation,Workers United,28-Apr-22,Initial,19,0,28,19-RC-290145
+4-Apr-22,Pittsburgh,PA,"1400 East Carson Street, Pittsburgh, Pennsylvania",Unionized,Starbucks Corporation,Workers United a/w SEIU,31-May-22,Initial,6,4,19,06-RC-293429
+12-Apr-22,West Hartford,CT,"1449B New Britain Ave, West Hartford, CT",Unionized,Starbucks Corporation,Workers United,9-Jun-22,Initial,13,3,21,01-RC-293992
+21-Apr-22,Albany,NY,"1475 Western Avenue in Albany, New York",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,15,0,22,03-RC-294402
+30-Mar-22,St. Louis,MO,"1500 South Lindbergh Blvd., St. Louis, MO",Open,Starbucks Corporation,Chicago & Midwest Regional Joint Board - Workers United/SEIU,13-Jun-22,Initial,12,3,28,14-RC-293254
+14-Apr-22,Brooklyn,NY,"154 North Seventh Street, Brooklyn, NY",Unionized,Starbucks Corporation,Workers United,21-Jun-22,Initial,10,0,16,29-RC-294160
+2-May-22,Atlanta,GA,1544 Piedmont Rd NE,Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",22-Jun-22,Initial,11,3,16,10-RC-294986
+3-Jan-22,Chicago,IL,"155 N Wabash, Chicago, Illinois",Voted Failed,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",7-Jun-22,Initial,6,7,14,13-RC-288328
+14-Feb-22,Midlothian,VA,"15605 WC Commons Way, Midlothian, Virginia",Unionized,Starbucks Corporation,Workers United a/w SEIU,19-Apr-22,Initial,13,8,31,05-RC-290518
+24-Mar-22,Anaheim,CA,"1570 South Disneyland Drive, Suite 105, Anaheim, California",Unionized,Starbucks Corporation,WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD,16-Jun-22,Initial,29,15,98,21-RC-292951
+29-Mar-22,Seattle,WA,"1600 E Olive Way, Seattle, Washington",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,8,0,20,19-RC-293131
+23-Feb-22,Richmond,VA,"1601 Willow Lawn Drive, 700-P, Richmond, Virginia",Unionized,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",19-Apr-22,Initial,19,0,28,05-RC-291103
+31-Jan-22,Beaverton,OR,"16175 SW Walker Road, Beaverton, Oregon",Unionized,Starbucks Corporation,Workers United,2-Jun-22,Initial,12,5,26,19-RC-289814
+17-Feb-22,Newtonville,MA,"16-18 Austin St., Newtonville, MA",Open,Starbucks Corporation,Workers United,30-Jun-22,Initial,2,5,12,01-RC-290847
+14-Apr-22,Bloomington,MN,"164 E Broadway, Bloomington, Minnesota",Open,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",22-Jun-22,Initial,10,1,19,18-RC-294052
+4-Apr-22,Boone,NC,"1700 Blowing Rock Road, Boone, NC",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",30-Apr-22,Initial,33,2,48,10-RC-293398
+8-Mar-22,Linthicum Heights,MD,"1700 W. Nursery Road in Linthicum Heights, Maryland",Unionized,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",10-May-22,Initial,15,2,23,05-RC-291899
+16-Feb-22,Tallahassee,FL,1703 W. Tennessee,Open,Starbucks Corporation,"Workers United, Southern Regional Joint Board",25-May-22,Initial,4,3,33,12-RC-290700
+12-Apr-22,Marysville,WA,17101 27th Ave NE,Unionized,Starbucks Corporation,Workers United,21-Jun-22,Initial,9,4,24,19-RC-293932
+28-Mar-22,Lawrence,KS,"1731 W 23rd Street, Lawrence, KS",Open,Starbucks Corporation,Workers United,7-Jun-22,Initial,19,3,37,14-RC-293092
+28-Mar-22,Westford,MA,"174 Littleton Road, Westford, MA",Unionized,Starbucks Corporation,Workers United,3-Jun-22,Initial,11,0,30,01-RC-292964
+25-Feb-22,Phoenix,AZ,"17405 North 7th Street, Phoenix, Arizona",Open,Starbucks Corporation,Workers United a/w SEIU,5-May-22,Initial,7,6,28,28-RC-291280
+31-Jan-22,Clinton Township,MI,"17410 Hall Road, #174, Clinton Township, Michigan",Unionized,Starbucks Corporation,Workers United,9-Jun-22,Initial,8,3,15,07-RC-289840
+9-Nov-21,Cheektowaga,NY,"1775 Walden Avenue, Cheektowaga, NY",Open,Starbucks Corporation,Workers United,22-Apr-22,Revised,10,10,39,03-RC-285929
+27-Jan-22,Atlanta,GA,"1801 Howell Mill Road NW, Atlanta, Georgia",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",6-Jun-22,Initial,10,1,26,10-RC-289571
+10-Mar-22,Independence,MO,"18710 E 39th St., Independence, MO",Open,Starbucks Corporation,Chicago & Midwest Regional Joint Board - Workers United/SEIU,24-May-22,Initial,17,3,28,14-RC-292066
+31-Jan-22,Eugene,OR,"1895 Franklin Boulevard, Eugene, Oregon",Unionized,Starbucks Corporation,Workers United,28-Apr-22,Initial,17,0,27,19-RC-289816
+4-Feb-22,Philadelphia,PA,"1900 Market St., Philadelphia, PA",Unionized,Starbucks Corporation,Workers United a/w SEIU,25-May-22,Initial,11,0,18,04-RC-290056
+1-Feb-22,Santa Cruz,CA,"1909 Mission Street, Santa Cruz, CA",Open,Starbucks Corporation,Workers United affiliated with SEIU,11-May-22,Initial,15,2,32,32-RC-289828
+28-Jan-22,Philadelphia,PA,"1945 Callowhill St., Philadelphia, PA",Voted Failed,Starbucks Corporation,Workers United a/w SEIU,25-May-22,Initial,4,10,19,04-RC-289708
+18-Jan-22,Brighton,MA,"1948 Beacon Street, Brighton, MA",Unionized,Starbucks Corporation,Workers United,3-May-22,Initial,8,2,22,01-RC-289077
+22-Mar-22,Estero,FL,"19533 Highland Oaks Dr., Estero, Florida",Open,Starbucks Corporation,"Workers United, Southern Regional Joint Board",6-May-22,Initial,11,21,37,12-RC-292669
+25-Mar-22,Capitola,CA,"1955 41st Avenue, Capitola, CA",Open,Starbucks Corporation,WORKERS UNITED,6-Jun-22,Initial,8,3,21,32-RC-292934
+24-Feb-22,Jacksonville,FL,"1980 San Marco Blvd., Jacksonville, Florida",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",10-May-22,Initial,8,1,14,12-RC-291207
+1-Mar-22,Summit,NJ,"2 Beechwood Road, Summit, New Jersey",Unionized,Starbucks Corporation,WORKERS UNITED,2-May-22,Initial,7,3,18,22-RC-291520
+16-Mar-22,San Antonio,TX,"200 E. Houston Street, San Antonio, Texas",Unionized,STARBUCKS CORPORATION,WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD,21-Jun-22,Initial,13,0,21,16-RC-292335
+14-Feb-22,Richmond,VA,"2059 Huguenot Road, North Chesterfield, Virginia",Unionized,Starbucks Corporation,Workers United,19-Apr-22,Initial,11,2,28,05-RC-290510
+28-Mar-22,Chicago,IL,"2101 W Armitage Ave, Chicago, Illinois",Unionized,Starbucks Corporation,"Chicago & Midwest Regional Joint Board, Workers United/SEIU",14-Jun-22,Initial,15,1,27,13-RC-293064
+18-Jan-22,Boston,MA,"217 Western Avenue, Boston, MA",Unionized,Starbucks Corporation,Workers United,3-May-22,Initial,7,0,14,01-RC-289055
+16-Feb-22,Tallahassee,FL,"222 S. Magnolia Drive, Suite 101, Tallahassee, Florida",Voted Failed,Starbucks Corporation,"Workers United, Southern Regional Joint Board a/w Service Employees International Union",25-May-22,Initial,9,15,35,12-RC-290711
+8-Feb-22,Ann Arbor,MI,"222 South State Street, Ann Arbor, Michigan",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,15,1,33,07-RC-290304
+11-Jan-22,Tallahassee,FL,"2264-1 N. Monroe Street, Tallahassee, Florida",Unionized,Starbucks Corporation,WORKERS UNITED,3-May-22,Initial,16,1,35,12-RC-288866
+10-Mar-22,Augusta,GA,"228 Robert C. Daniel Jr. Pkwy, Augusta, GA",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",28-Apr-22,Initial,26,5,38,10-RC-292010
+5-Apr-22,Denton,TX,"2320 W. University Drive, Denton, Texas",Open,STARBUCKS CORPORATION,WORKERS UNITED,30-Jun-22,Initial,17,5,41,16-RC-293512
+4-Mar-22,Portland,OR,"2328 W Burnside Street, #2, Portland, Oregon",Unionized,Starbucks Corporation,Workers United,17-May-22,Initial,7,2,14,19-RC-291715
+18-Mar-22,Seattle,WA,"2344 Eastlake Ave. E, Seattle, Washington",Unionized,Starbucks Corporation,Workers United,27-May-22,Initial,12,0,15,19-RC-292503
+9-Mar-22,Grand Rapids,MI,"2480 Burton Street, Southeast, Grand Rapids, Michigan",Unionized,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United, SEIU",13-May-22,Initial,15,3,30,07-RC-291974
+16-May-22,Greensburg,PA,"2540 Greengate Center Circle, Greensburg, PA",Unionized,Starbucks Corporation,"International Brotherhood of Teamsters, Local Union No. 30",21-Jun-22,Initial,21,6,31,06-RC-295875
+10-Jan-22,Chicago,IL,2543 N. California,Voted Failed,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",7-Jun-22,Initial,8,10,22,13-RC-288667
+8-Feb-22,Lansing,MI,"2624 Lake Lansing Road, Lansing, Michigan",Unionized,Starbucks Corporation,Workers United,9-Jun-22,Initial,13,3,37,07-RC-290290
+8-Feb-22,San Antonio,TX,"2639 NW Loop 410, Suite 106, San Antonio, Texas",Unionized,STARBUCKS CORPORATION,WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD,14-Jun-22,Initial,10,6,28,16-RC-290302
+1-Feb-22,Rochester,NY,"2750 Monroe Avenue, Rochester, New York",Unionized,Starbucks Corporation,Workers United,7-Apr-22,Initial,10,3,30,03-RC-289802
+13-Dec-21,Brookline,MA,"277 Harvard St., Brookline, MA",Unionized,Starbucks Corporation,WORKERS UNITED,11-Apr-22,Initial,14,0,21,01-RC-287639
+30-Dec-21,Louisville,CO,"2800 Rock Creek Circle, A1, Superior, Colorado",Unionized,Starbucks Corporation,"Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",22-Apr-22,Initial,12,2,30,27-RC-288318
+7-Jan-22,Eugene,OR,"2830 Willamette St., Eugene, Oregon",Unionized,Starbucks Corporation,Workers United,13-Apr-22,Initial,17,0,28,19-RC-288594
+4-Mar-22,Portland,OR,"2880 SE Powell Boulevard, Portland, Oregon",Unionized,Starbucks Corporation,Workers United,17-May-22,Initial,14,2,23,19-RC-291712
+15-Feb-22,Raleigh,NC,"2901 Sherman Oak Place, Raleigh, North Carolina",Open,Starbucks Corporation,SEIU Workers United Southern Region,3-May-22,Initial,5,7,12,10-RC-290674
+31-Jan-22,Beaverton,OR,"2933 SW Cedar Hills Boulevard, Beaverton, Oregon",Unionized,Starbucks Corporation,Workers United a/w SEIU,2-Jun-22,Initial,10,2,25,19-RC-289812
+27-Jan-22,Denver,CO,"2975 E Colfax Ave., Denver, CO",Open,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",10-May-22,Initial,13,0,23,27-RC-289608
+8-Feb-22,Ann Arbor,MI,"300 S. Main Street, Ann Arbor, Michigan",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,10,3,19,07-RC-290295
+14-Feb-22,St. Paul,MN,"300 Snelling Ave S Suite C, St. Paul, Minnesota",Unionized,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",27-Apr-22,Initial,14,1,20,18-RC-290585
+4-Feb-22,Eugene,OR,"3003 North Delta Highway, Suite 301, Eugene, Oregon",Unionized,Starbucks Corporation,Workers United,28-Apr-22,Initial,10,1,25,19-RC-290060
+16-Mar-22,Columbia,SC,"3009 Millwood Ave., Columbia, South Carolina",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",26-May-22,Initial,12,0,27,10-RC-292341
+18-Mar-22,Astoria,NY,"30-18 Astoria Blvd, Long Island City, NY",Unionized,Starbucks Corporation,Workers United,6-Jun-22,Initial,11,0,14,29-RC-292481
+24-Mar-22,Oviedo,FL,"305 E Mitchell Hammock Rd, Oviedo, Florida",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board a/w Service Employees International Union",9-Jun-22,Initial,24,6,42,12-RC-292836
+15-Apr-22,Birmingham,AL,"308 20th Street South, Birmingham, AL",Open,Starbucks Corporation,SEIU Workers United Southern Region,26-May-22,Initial,27,1,33,10-RC-294065
+21-Apr-22,Gardner,MA,"308 West Broadway #1, Gardner, MA",Unionized,Starbucks Corporation,Workers United,23-Jun-22,Initial,14,0,31,01-RC-294409
+28-Feb-22,Eugene,OR,"3110 W. 11th Avenue, Eugene, Oregon",Unionized,Starbucks Corporation,Workers United,5-May-22,Initial,7,2,25,19-RC-291410
+15-Apr-22,Covington,GA,"3130 Hwy 278 NW, Covington, GA",Voted Failed,Starbucks Corporation,"Workers United, Southern Regional Joint Board",1-Jun-22,Initial,4,18,30,10-RC-294094
+25-Feb-22,Olympia,WA,"315 Cooper Point Road NW, Unit 101, Olympia, Washington",Unionized,Starbucks Corporation,"Mid Atlantic Regional Joint Board, Workers United",29-Apr-22,Initial,19,2,30,19-RC-291290
+10-Nov-21,Amherst,NY,"3186 Sheridan Drive, Amherst, NY",Unionized,Starbucks Corporation,Workers United,9-Mar-22,Initial,15,12,44,03-RC-285986
+9-Mar-22,Flint,MI,"3243 Miller Road, Flint, Michigan",Unionized,Starbucks Corporation,Workers United,9-Jun-22,Initial,13,6,26,07-RC-291984
+19-Jan-22,Memphis,TN,"3388 Poplar Ave., Memphis, Tennessee",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,11,3,24,15-RC-289150
+7-Mar-22,Long Beach,CA,"3390 East 7th Street, Long Beach, California",Unionized,Starbucks Corporation,Workers United,13-May-22,Initial,13,0,23,21-RC-291847
+12-Apr-22,Newport News,VA,"340 Oyster Point Road, Newport News, Virginia",Unionized,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",19-May-22,Initial,11,7,20,05-RC-293910
+7-Mar-22,Philadelphia,PA,"3400 Civic Center Blvd., Philadelphia, PA",Unionized,Starbucks Corporation,Workers United,25-May-22,Initial,10,1,26,04-RC-291798
+4-Feb-22,Philadelphia,PA,"3401 Walnut St., Philadelphia, PA",Unionized,Starbucks Corporation,Workers United a/w SEIU,25-May-22,Initial,10,0,24,04-RC-290064
+14-Apr-22,Pittsburgh,PA,"3464 William Penn Highway, Pittsburgh, Pennsylvania",Unionized,Starbucks Corporation,Workers United a/w SEIU,16-Jun-22,Initial,15,6,36,06-RC-294100
+16-Mar-22,Los Alamitos,CA,"3575 Katella Avenue, Los Alamitos, California",Voted Failed,Starbucks Corporation,Workers United,23-May-22,Initial,2,11,23,21-RC-292423
+4-Apr-22,Oklahoma City,OK,"3616 N May Avenue, Oklahoma",Open,Starbucks Corporation,Workers United,14-Jun-22,Initial,14,1,28,14-RC-293408
+31-Jan-22,Everett,WA,"3625 Broadway, Everett, Washington",Unionized,Starbucks Corporation,Workers United,1-Jun-22,Initial,13,1,29,19-RC-289827
+21-Jan-22,Boston,MA,"364 Brookline Avenue, Boston, MA",Unionized,Starbucks Corporation,"Mid Atlantic Regional Joint Board, Workers United",3-May-22,Initial,5,0,15,01-RC-289350
+13-Apr-22,Ann Arbor,MI,"3650 Carpenter Road, Ypsilanti, Michigan",Unionized,Starbucks Corporation,WORKERS UNITED,17-Jun-22,Initial,15,2,38,07-RC-293990
+4-Apr-22,St. Louis,MO,"3700 S Kingshighway Boulevard, St. Louis, MO",Open,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/ SEIU",14-Jun-22,Initial,9,4,29,14-RC-293441
+22-Mar-22,St. Anthony,MN,3704 Silver Lake Rd NE,Unionized,Starbucks Corporation,"Chicago & Midwest Regional Joint Board, Workers United/SEIU",6-Jun-22,Initial,12,5,28,18-RC-292716
+14-Jan-22,La Grange,IL,"38 S. LaGrange Rd., LaGrange, Illinois",Voted Failed,Starbucks Corporation,Chicago & Midwest Regional Joint Board,6-May-22,Initial,6,9,18,13-RC-288995
+16-Feb-22,Greenville,SC,"3905 Pelham Road, Greenville, SC",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",16-May-22,Initial,8,1,29,10-RC-290683
+2-May-22,Seattle,WA,"4000 E Madison St, Seattle, WA",Open,Starbucks Corporation,Workers United,30-Jun-22,Initial,6,1,18,19-RC-294994
+12-Apr-22,Cincinnati,OH,"401 Vine Street, Cincinnati, Ohio",Unionized,STARBUCKS CORPORATION,"Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",23-Jun-22,Initial,9,1,18,09-RC-293893
+1-Feb-22,Ithaca,NY,"402 College Avenue, Suite 402, Ithaca, New York",Unionized,Starbucks Corporation,Workers United,8-Apr-22,Initial,19,1,27,03-RC-289793
+4-Mar-22,Pittsburgh,PA,"4022 Fifth Avenue, Pittsburgh, Pennsylvania",Unionized,Starbucks Corporation,Workers United,6-May-22,Initial,10,3,44,06-RC-291724
+22-Mar-22,Kansas City,MO,"4101 Main Street, Kansas",Open,Starbucks Corporation,Chicago & Midwest Regional Joint Board - Workers United/SEIU,22-Jun-22,Initial,5,4,32,14-RC-292753
+26-Apr-22,Seattle,WA,4147 University Way NE,Open,Starbucks Corporation,Workers United,28-Jun-22,Initial,10,5,32,19-RC-294701
+23-Mar-22,Pittsburgh,PA,"425 Craig Street, Pittsburgh, Pennsylvania",Open,Starbucks Corporation,Workers United,28-Jun-22,Initial,9,8,27,06-RC-292767
+25-Jan-22,Seattle,WA,"425 Pike Street, Seattle, Washington",Unionized,Starbucks Corporation,Workers United,6-Jun-22,Initial,12,0,15,19-RC-289458
+16-Feb-22,Massapequa,NY,"4301 Merrick Road, Massapequa, NY",Unionized,Starbucks Corporation,"New York New Jersey Regional Joint Board Workers United, affiliated with SEIU",3-May-22,Initial,19,8,36,29-RC-290794
+21-Mar-22,Austin,TX,"4400 North Lamar Boulevard, Austin, Texas",Unionized,STARBUCKS CORPORATION,WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD,3-Jun-22,Initial,10,1,27,16-RC-292620
+4-Apr-22,Boston,MA,"443 Boylston Street, Boston, MA",Unionized,Starbucks Corporation,WORKERS UNITED,9-Jun-22,Initial,5,1,27,01-RC-293421
+6-Apr-22,Stevensville,MD,"450 Thompson Creek Road, Stevensville, Maryland",Unionized,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",1-Jun-22,Initial,6,3,21,05-RC-293590
+31-Jan-22,Ann Arbor,MI,"4585 Washtenaw Avenue, Ann Arbor, Michigan",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,14,0,30,07-RC-289821
+22-Mar-22,Anderson,SC,"4686 Clemson Blvd., Anderson, SC",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",31-May-22,Initial,18,0,23,10-RC-292644
+28-Feb-22,Minneapolis,MN,"4712 Cedar Ave., Minneapolis, Minnesota",Unionized,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",2-May-22,Initial,11,3,31,18-RC-291359
+14-Mar-22,Waban,MA,"474 Woodward Street, Waban, MA",Unionized,Starbucks Corporation,Workers United,19-May-22,Initial,12,0,23,01-RC-292142
+11-Feb-22,Pittsburgh,PA,"4765 Liberty Avenue, Pittsburgh, Pennsylvania",Unionized,Starbucks Corporation,WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD,13-Apr-22,Initial,20,0,22,06-RC-290464
+10-Nov-21,Depew,NY,"4770 Transit Road, Depew, New York",Unionized,Starbucks Corporation,Workers United,9-Mar-22,Initial,15,12,37,03-RC-285989
+7-Mar-22,Lakewood,CA,"4833 Candlewood Street, Lakewood, California",Unionized,Starbucks Corporation,Workers United,13-May-22,Initial,24,1,35,21-RC-291844
+4-Apr-22,Pittsburgh,PA,"4840 McKnight Road, Pittsburgh, Pennsylvania",Voted Failed,Starbucks Corporation,Workers United a/w SEIU,31-May-22,Initial,6,11,24,06-RC-293424
+31-Jan-22,Eugene,OR,"495 West 7th Avenue, Eugene, Oregon",Unionized,Starbucks Corporation,Workers United,28-Apr-22,Initial,12,1,19,19-RC-289815
+11-Mar-22,Austin,TX,"504 W. 24th Street, Austin, Texas",Unionized,STARBUCKS CORPORATION,WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD,10-Jun-22,Initial,10,2,34,16-RC-292111
+16-Mar-22,Seattle,WA,"505 5th Ave. S., Seattle, Washington",Unionized,Starbucks Corporation,Workers United,27-May-22,Initial,6,3,15,19-RC-292421
+14-Mar-22,Miami Springs,FL,"52 Curtiss Pkwy., Miami Springs, Florida",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board a/w Service Employees International Union",10-May-22,Initial,10,3,17,12-RC-292183
+14-Mar-22,Leesburg,VA,"526 East Market Street, Leesburg, Virginia",Unionized,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",23-May-22,Initial,24,1,30,05-RC-292280
+28-Mar-22,Tumwater,WA,"5300 Capitol Blvd SE, Tumwater, Washington",Unionized,Starbucks Corporation,Workers United,7-Jun-22,Initial,12,3,35,19-RC-293041
+18-Apr-22,Westerville,OH,"533 S. State Street, Westerville, Ohio",Open,STARBUCKS CORPORATION,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",29-Jun-22,Initial,8,2,32,09-RC-294225
+6-Apr-22,Nottingham,MD,"5350 Campbell Boulevard, Nottingham, Maryland",Open,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United",1-Jun-22,Initial,10,2,21,05-RC-293696
+30-Mar-22,Minneapolis,MN,"5351 Lyndale Ave S, Minneapolis, Minnesota",Open,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",14-Jun-22,Initial,5,6,19,18-RC-293227
+4-Mar-22,Portland,OR,"555 SW Oak Street, Portland, Oregon",Unionized,Starbucks Corporation,Workers United,17-May-22,Initial,5,0,6,19-RC-291713
+9-Mar-22,Hialeah,FL,"583 W. 49th Street, Hialeah, Florida",Voted Failed,Starbucks Corporation,"Workers United, Southern Regional Joint Board",20-Apr-22,Initial,12,14,37,12-RC-291975
+19-Apr-22,Pittsburgh,PA,"5932 Penn Circle South, Pittsburgh, Pennsylvania",Unionized,Starbucks Corporation,Workers United a/w SEIU,16-Jun-22,Initial,10,0,15,06-RC-294253
+12-Apr-22,Chicago,IL,"5964 N Ridge Ave., Chicago, Illinois",Unionized,Starbucks Corporation,Workers United,25-May-22,Initial,20,3,29,13-RC-293883
+28-Jan-22,Philadelphia,PA,"600 S. 9th St, Philadelphia, PA",Unionized,Starbucks Corporation,Workers United a/w SEIU,25-May-22,Initial,7,2,17,04-RC-289746
+11-Apr-22,Covina,CA,"611 South Citrus Avenue, Covina, California",Open,Starbucks Corporation,Workers United,21-Jun-22,Initial,7,10,36,21-RC-293882
+29-Mar-22,Asheville,NC,"62 Charlotte Street, Asheville, NC",Voted Failed,Starbucks Corporation,WORKERS UNITED,11-May-22,Initial,6,11,23,10-RC-293160
+14-Feb-22,Cary,IL,"620 Northwest Highway, Cary, IL",Unionized,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United/SEIU",26-Apr-22,Initial,17,4,27,25-RC-290609
+23-Mar-22,Boston,MA,"627 Tremont Street, Boston, MA",Open,Starbucks Corporation,Workers United,3-Jun-22,Initial,4,0,32,01-RC-292803
+13-Apr-22,Appleton,WI,"631 W. Northland Ave., Appleton, Wisconsin",Unionized,Starbucks Corporation,"Chicago & Midwest Regional Joint Board, Workers United affiliated with Service Employees International Union",16-Jun-22,Initial,10,7,24,18-RC-294019
+31-Jan-22,Eugene,OR,"65 Oakwood Center, Eugene, Oregon",Voted Failed,Starbucks Corporation,Workers United,28-Apr-22,Initial,4,7,17,19-RC-289817
+18-Nov-21,Mesa,AZ,"6807 E. Baseline Road, #102, Suite 100, Mesa, Arizona",Unionized,Starbucks Corporation,Chicago & Midwest Regional Joint Board - Workers United/SEIU,25-Feb-22,Initial,25,3,43,28-RC-286556
+20-Jan-22,Richmond,VA,"6980 Forest Hill Avenue, Richmond, Virginia",Unionized,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",19-Apr-22,Initial,17,1,23,05-RC-289213
+23-Mar-22,Pittsburgh,PA,"7 Market Square, Pittsburgh, Pennsylvania",Unionized,Starbucks Corporation,Workers United,26-May-22,Initial,8,1,23,06-RC-292760
+22-Feb-22,Phoenix,AZ,"7000 East Mayo Boulevard, #28, Phoenix, Arizona",Open,Starbucks Corporation,Workers United,5-May-22,Initial,6,8,31,28-RC-291029
+18-Mar-22,Portland,OR,"7001 SE Milwaukie Ave., Portland, Oregon",Unionized,Starbucks Corporation,Workers United,24-May-22,Initial,9,1,13,19-RC-292533
+20-Apr-22,Goleta,CA,"7030 Market Pl. Dr., Goleta, CA",Voted Failed,Starbucks Corporation,WORKERS UNITED,24-Jun-22,Initial,5,7,25,31-RC-294436
+1-Feb-22,Ithaca,NY,"722 South Meadow Street, Ithaca, New York",Unionized,Starbucks Corporation,Workers United,8-Apr-22,Initial,13,1,27,03-RC-289796
+1-Feb-22,Portland,OR,"7315 SW Garden Home Road, Portland, Oregon",Unionized,Starbucks Corporation,Workers United,2-Jun-22,Initial,12,1,19,19-RC-289854
+1-Feb-22,Santa Cruz,CA,"745 Ocean Street, Santa Cruz, CA",Open,Starbucks Corporation,"Workers United, a/w SEIU",11-May-22,Initial,13,1,28,32-RC-289855
+23-Feb-22,Springfield,VA,"7475 Huntsman Boulevard, Springfield, Virginia",Voted Failed,Starbucks Corporation,"Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",14-Apr-22,Initial,8,10,22,05-RC-291121
+21-Jan-22,Watertown,MA,"75 Mt. Auburn Street, Watertown, MA",Unionized,Starbucks Corporation,WORKERS UNITED,3-May-22,Initial,10,1,27,01-RC-289330
+19-Apr-22,New Orleans,LA,"7700 Maple Street, New Orleans, Louisiana",Unionized,Starbucks Corporation,Workers United,4-Jun-22,Initial,11,1,15,15-RC-294263
+14-Mar-22,Knoxville,TN,"7803 Montvue Center Way, Knoxville, TN",Unionized,Starbucks Corporation,"Workers United, Southern Regional Joint Board",26-May-22,Initial,13,4,33,10-RC-292148
+11-Jan-22,Hopewell (Township),NJ,"800 Denow Road, Pennington, New Jersey",Unionized,Starbucks Corporation,WORKERS UNITED,25-Apr-22,Initial,15,0,26,22-RC-288780
+18-Mar-22,Mill Valley,CA,"800 Strawberry Village, Mill Valley, California",Open,Starbucks Corporation,Workers United/Service Employees International Union,6-Jun-22,Initial,6,7,20,20-RC-292521
+28-Mar-22,Brookline,MA,"874 Commonwealth Ave, Brookline, MA",Unionized,Starbucks Corporation,Workers United,3-Jun-22,Initial,10,0,36,01-RC-292965
+22-Mar-22,Columbus,OH,"88 E. Broad Street, Columbus, Ohio",Unionized,STARBUCKS CORPORATION,"Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",24-May-22,Initial,8,4,13,09-RC-292683
+29-Mar-22,Chandler,AZ,"885 North 54th Street #1, Chandler, Arizona",Voted Failed,Starbucks Corporation,WORKERS UNITED,9-Jun-22,Initial,1,9,17,28-RC-293178
+14-Feb-22,Oak Creek,WI,"8880 South Howell Avenue, Oak Creek, Wisconsin",Unionized,Starbucks Corporation,"Chicago and Midwest Regional Joint Board, Workers United affiliated with Service Employees International Union",27-Apr-22,Initial,15,8,31,18-RC-290576
+10-Feb-22,Brooklyn,NY,"8973 Bay Parkway, Brooklyn, NY",Unionized,Starbucks Corporation,Workers United,3-May-22,Initial,17,0,20,29-RC-290386
+14-Apr-22,Garden City,NY,"914 Old Country Road, Garden City, NY",Unionized,Starbucks Corporation,Workers United,10-Jun-22,Initial,23,0,27,29-RC-294141
+11-Feb-22,Mililani,HI,"95-221 Kipapa Dr., Mililani, HI",Open,Starbucks Corporation,"Workers United, a/w SEIU",2-May-22,Initial,7,8,17,20-RC-290481
+24-Feb-22,Seattle,WA,"9999 Holman Road NW, Seattle, Washington",Unionized,Starbucks Corporation,"Mid Atlantic Regional Joint Board, Workers United",29-Apr-22,Initial,11,1,14,19-RC-291186
